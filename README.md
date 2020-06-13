@@ -1,3 +1,5 @@
+https://github.com/google/blockly/tree/52b818ed67c5bfa7fd73edf2b067649b8b1f447b
+
 # Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)
 
 
